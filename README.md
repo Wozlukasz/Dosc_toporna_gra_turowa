@@ -1,4 +1,4 @@
-# Stupid_python_fighting_game
+# Dość_toporna_gra_turowa
 
 Nazwa mówi sama za siebie, jednakże....
 Jeśli chcesz zagrać pobierz wszystkie pliki .py i umieść je w jednym folderze.
