@@ -39,15 +39,15 @@ plansza.dodaj_jednostke(r1, 1)
 gracz2 = Gracz('Albert')
 
 #'''Wybierz 2 jednostki'''
-#l2 = Lucznik('l2')
+l2 = Lucznik('l2')
 r2 = Rycerz('r2')
 #p2 = Piechur('p2')
-k2 = Kusznik('k2')
+#k2 = Kusznik('k2')
 
 #'''wprowadź nazwy wybranych jednostek jako argumenty (dowolna kolejność)'''
-gracz2.wezwij_jednostki(k2,r2)
-plansza.dodaj_jednostke(k2, 19)
-plansza.dodaj_jednostke(r2, 2)
+gracz2.wezwij_jednostki(l2,r2)
+plansza.dodaj_jednostke(l2, 19)
+plansza.dodaj_jednostke(r2, 23)
 
 
 
