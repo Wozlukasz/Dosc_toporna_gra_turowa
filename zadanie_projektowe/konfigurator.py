@@ -47,7 +47,7 @@ k2 = Kusznik('k2')
 #'''wprowadź nazwy wybranych jednostek jako argumenty (dowolna kolejność)'''
 gracz2.wezwij_jednostki(k2,r2)
 plansza.dodaj_jednostke(k2, 19)
-plansza.dodaj_jednostke(r2, 23)
+plansza.dodaj_jednostke(r2, 2)
 
 
 

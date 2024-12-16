@@ -36,4 +36,6 @@ class Gracz:
     def czy_moje(self, jednostka: Jednostka):
         return jednostka in self.jednostki
 
-
+    def zmien_kolejnosc_jednostek(self):
+        if not self.jednostki[0].czy_zyje():
+            self.jednostki[0], self.jednostki[1] = self.jednostki[1], self.jednostki[0]

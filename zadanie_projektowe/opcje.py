@@ -1,7 +1,3 @@
-from lucznik import Lucznik
-from rycerz import Rycerz
-from kusznik import Kusznik
-from piechur import Piechur
 from walka import Walka
 from gracz import Gracz
 from plansza import plansza
