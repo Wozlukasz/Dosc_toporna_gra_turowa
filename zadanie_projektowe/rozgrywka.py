@@ -58,4 +58,5 @@ class Rozgrywka:
         print('To tyle...')
         print(f'wygrywa: {zwyciezca.imie}')
         print('-------------')
+        input("\nwciśnij enter aby zakończyć")
 from opcje import Opcje
